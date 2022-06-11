@@ -1,4 +1,3 @@
-
 [
     {
         "id": 1,
@@ -7,7 +6,11 @@
         "live": "https://parts-station.web.app/",
         "github_c": "https://github.com/samiul1998/parts-station-client",
         "github_s": "https://github.com/samiul1998/parts-station-server",
-        "img1":"https://i.ibb.co/PTSM34p/project1.png"
+        "img1":"https://i.ibb.co/PTSM34p/project1.png",
+        "img2":"https://i.ibb.co/vqJ6HDt/Screenshot-2022-06-11-163731.png",
+        "img3":"https://i.ibb.co/PcZxVJ8/Screenshot-2022-06-11-163836.png",
+        "technologies":"MERN Stack, Tailwind CSS, Firebase, JWT"
+
     },
     {
         "id": 2,
@@ -16,7 +19,11 @@
         "live": "https://royal-truckings.web.app/",
         "github_c": "https://github.com/samiul1998/royal-truckings-client",
         "github_s": "https://github.com/samiul1998/royal-truckings-server",
-        "img1":"https://i.ibb.co/tD12dyb/project2.png"
+        "img1":"https://i.ibb.co/tD12dyb/project2.png",
+        "img2":"https://i.ibb.co/ScF9Lvd/Screenshot-2022-06-11-164052.png",
+        "img3":"https://i.ibb.co/BVD5YDR/Screenshot-2022-06-11-164033.png",
+        "technologies":"MERN Stack, Firebase, Bootstrap"
+
     },
     {
         "id": 3,
@@ -25,6 +32,10 @@
         "live": "https://the-doctor-lounge.web.app/",
         "github_c": "https://github.com/samiul1998/the-doctor-lounge",
         "github_s": "",
-        "img1":"https://i.ibb.co/Vp2JBZB/project3.png"
+        "img1":"https://i.ibb.co/Vp2JBZB/project3.png",
+        "img2":"https://i.ibb.co/ctkPNNB/Screenshot-2022-06-11-164307.png",
+        "img3":"https://i.ibb.co/JjvTqFJ/swsdag.png",
+        "technologies":"React JS, Firebase, Bootstrap"
+
     }
 ]
