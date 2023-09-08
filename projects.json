@@ -9,7 +9,29 @@
         "img1":"https://i.ibb.co/PTSM34p/project1.png",
         "img2":"https://i.ibb.co/vqJ6HDt/Screenshot-2022-06-11-163731.png",
         "img3":"https://i.ibb.co/PcZxVJ8/Screenshot-2022-06-11-163836.png",
-        "technologies":"MERN Stack, Tailwind CSS, Firebase, JWT"
+       "technologies": [
+        {
+            "techName": "ReactJS"
+        },
+        {
+            "techName": "NodeJS"
+        },
+        {
+            "techName": "ExpressJS"
+        },
+        {
+            "techName": "MongoDB"
+        },
+        {
+            "techName": "Tailwind CSS"
+        },
+        {
+            "techName": "Firebase"
+        },
+           {
+            "techName": "JWT"
+        }
+    ]
 
     },
     {
@@ -22,7 +44,26 @@
         "img1":"https://i.ibb.co/pQhX4mf/Screenshot-2023-08-29-152346.png",
         "img2":"https://i.ibb.co/9hqQx53/Screenshot-2023-08-29-152415.png",
         "img3":"https://i.ibb.co/Bg74D42/Screenshot-2023-08-29-152434.png",
-        "technologies":"React JS,Node JS,Express JS,MongoDB,Material UI,Firebase"
+        "technologies": [
+        {
+            "techName": "ReactJS"
+        },
+        {
+            "techName": "NodeJS"
+        },
+        {
+            "techName": "ExpressJS"
+        },
+        {
+            "techName": "MongoDB"
+        },
+        {
+            "techName": "Material UI"
+        },
+        {
+            "techName": "Firebase"
+        }
+    ]
 
     },
     {
@@ -35,7 +76,26 @@
         "img1":"https://i.ibb.co/tD12dyb/project2.png",
         "img2":"https://i.ibb.co/ScF9Lvd/Screenshot-2022-06-11-164052.png",
         "img3":"https://i.ibb.co/BVD5YDR/Screenshot-2022-06-11-164033.png",
-        "technologies":"MERN Stack, Firebase, Bootstrap"
+        "technologies": [
+        {
+            "techName": "ReactJS"
+        },
+        {
+            "techName": "NodeJS"
+        },
+        {
+            "techName": "ExpressJS"
+        },
+        {
+            "techName": "MongoDB"
+        },
+        {
+            "techName": "Tailwind CSS"
+        },
+        {
+            "techName": "Firebase"
+        }
+    ]
 
     },
     {
@@ -48,26 +108,25 @@
         "img1":"https://i.ibb.co/Vp2JBZB/project3.png",
         "img2":"https://i.ibb.co/ctkPNNB/Screenshot-2022-06-11-164307.png",
         "img3":"https://i.ibb.co/JjvTqFJ/swsdag.png",
-        "technologies":[
-    {
-      techName: "ReactJS",
-    },
-    {
-      techName: "NodeJS",
-    },
-    {
-      techName: "ExpressJS",
-    },
-    {
-      techName: "MongoDB",
-    },
-    {
-      techName: "Material UI",
-    },
-    {
-      techName: "Firebase",
-    },
-  ];
-
+        "technologies": [
+        {
+            "techName": "ReactJS"
+        },
+        {
+            "techName": "NodeJS"
+        },
+        {
+            "techName": "ExpressJS"
+        },
+        {
+            "techName": "MongoDB"
+        },
+        {
+            "techName": "Material UI"
+        },
+        {
+            "techName": "Firebase"
+        }
+    ]
     }
 ]
