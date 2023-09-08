@@ -48,7 +48,26 @@
         "img1":"https://i.ibb.co/Vp2JBZB/project3.png",
         "img2":"https://i.ibb.co/ctkPNNB/Screenshot-2022-06-11-164307.png",
         "img3":"https://i.ibb.co/JjvTqFJ/swsdag.png",
-        "technologies":"React JS, Firebase, Bootstrap"
+        "technologies":[
+    {
+      techName: "ReactJS",
+    },
+    {
+      techName: "NodeJS",
+    },
+    {
+      techName: "ExpressJS",
+    },
+    {
+      techName: "MongoDB",
+    },
+    {
+      techName: "Material UI",
+    },
+    {
+      techName: "Firebase",
+    },
+  ];
 
     }
 ]
